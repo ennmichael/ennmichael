@@ -1,1 +1,1 @@
-renamed to @fcked
+# renamed to [@fcked](https://github.com/fcked)
